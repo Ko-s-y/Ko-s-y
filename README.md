@@ -1,6 +1,6 @@
-<!--[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ko-s-y&theme=vue-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) -->
+<!-- [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ko-s-y&theme=vue-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) -->
 
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ko-s-y&theme=vue-dark&show_icons=true&layout=compact)](https://github.com/Ko-s-y) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ko-s-y&theme=vue-dark&show_icons=true&layout=compact&exclude_repo=solidus-ec,Foody-thread-beta)](https://github.com/Ko-s-y) 
 
 ### Hi there 👋
 <!--
